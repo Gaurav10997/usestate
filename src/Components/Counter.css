@@ -1,0 +1,28 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.box-container{
+    margin-top: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 120px;
+    width: 190px;
+    display: flex;
+    justify-content: space-around;
+}
+.box{
+    width: 50px;
+    background-color: grey;
+    height: 50px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+
+}
+p{
+    font-size: 60px;
+}
